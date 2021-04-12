@@ -18,3 +18,7 @@ images, there are also aspects that can be difficult. For example; The first cha
 wasps.
 
 Key Words: Classification, Convolutional Neural Network, Wasps, Deep learning, İmage.
+
+### For dataset:
+
+https://www.kaggle.com/jerzydziewierz/bee-vs-wasp
